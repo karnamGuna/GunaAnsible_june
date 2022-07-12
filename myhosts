@@ -6,4 +6,4 @@
 
 [mywebserver]
 mywebpackonubuntu= apache2
-myredhat = httpd
+mywebpackonredhat = httpd
