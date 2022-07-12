@@ -1,9 +1,9 @@
 
-[webservers
+[mywebserver]
 172.31.26.222
 172.31.29.242
 
 
-[webservers]
+[mywebserver]
 mywebpackonubuntu= apache2
 myredhat = httpd
