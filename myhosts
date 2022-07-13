@@ -2,9 +2,12 @@
 [mywebserver]
 172.31.9.58
 172.31.0.187
+172-31-8-199
 
 
-
-[mywebserver:vars]
-mywebpackonubuntu= apache2
-mywebpackonredhat= httpd
+ [myservers]
+ server01 java8
+ server02 java8
+ server03 java8
+ server04 java8
+ server05 java8
